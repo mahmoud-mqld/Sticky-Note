@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Sticky-Note/static/css/main.82fd156b.css",
+    "main.js": "/Sticky-Note/static/js/main.9ca3d481.js",
+    "static/media/fa-solid-900.ttf": "/Sticky-Note/static/media/fa-solid-900.d75e3fd1eb12e9bd6655.ttf",
+    "static/media/fa-brands-400.ttf": "/Sticky-Note/static/media/fa-brands-400.016b4a6cdced82ab3aa1.ttf",
+    "static/media/website-empty-pages.png": "/Sticky-Note/static/media/website-empty-pages.1b871e09f95f10b4be51.png",
+    "static/media/fa-solid-900.woff2": "/Sticky-Note/static/media/fa-solid-900.b6879d41b0852f01ed5b.woff2",
+    "static/media/sign-up-illustration-with-signed-official-paper-and-stamper.png": "/Sticky-Note/static/media/sign-up-illustration-with-signed-official-paper-and-stamper.9bed637cbaaede630cc5.png",
+    "static/media/fa-brands-400.woff2": "/Sticky-Note/static/media/fa-brands-400.878f31251d960bd6266f.woff2",
+    "static/media/signed-document.png": "/Sticky-Note/static/media/signed-document.382058ec6fda6c0cc83e.png",
+    "static/media/fa-regular-400.ttf": "/Sticky-Note/static/media/fa-regular-400.50701fbb8177c2dde530.ttf",
+    "static/media/fa-regular-400.woff2": "/Sticky-Note/static/media/fa-regular-400.b041b1fa4fe241b23445.woff2",
+    "static/media/fa-v4compatibility.ttf": "/Sticky-Note/static/media/fa-v4compatibility.c6a0c95b0a95c4553700.ttf",
+    "static/media/fa-v4compatibility.woff2": "/Sticky-Note/static/media/fa-v4compatibility.1bac2991f3dbfa237aec.woff2",
+    "index.html": "/Sticky-Note/index.html",
+    "main.82fd156b.css.map": "/Sticky-Note/static/css/main.82fd156b.css.map",
+    "main.9ca3d481.js.map": "/Sticky-Note/static/js/main.9ca3d481.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.82fd156b.css",
+    "static/js/main.9ca3d481.js"
+  ]
+}
