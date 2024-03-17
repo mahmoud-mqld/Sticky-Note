@@ -1,0 +1,117 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Reenie+Beanie&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Madimi+One&display=swap');
+
+
+:root{
+  --color1:#FE7A36;
+  --color2:#3652AD;
+  --color3:#280274;
+  --color4:#E9F6FF;
+}
+
+.noteCard{
+//   
+
+h2 {
+  font-family: "Madimi One", sans-serif;
+  font-weight: bold;
+  font-size: 1.5rem;
+  text-wrap: balance;
+  text-overflow: clip;
+  width: 90%;
+}
+p {
+  font-family: 'Reenie Beanie';
+  font-size: 2rem;
+  text-wrap: balance;
+  text-overflow: clip;
+}
+ul,li{
+  list-style:none;
+}
+ul{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+ul li {
+  text-decoration:none;
+  color:var(--color3);
+  background:var(--color1);
+  display:block;
+  min-height:14em;
+  min-width:14em;
+  padding:1em;
+  box-shadow: 5px 5px 7px rgba(33,33,33,.7);
+  transform: rotate(-6deg);
+  transition: transform .15s linear;
+  text-wrap: balance;
+  text-overflow: clip;
+}
+
+
+ul li:hover,ul li a:focus{
+  box-shadow:10px 10px 7px rgba(0,0,0,.7);
+  transform: scale(1.25);
+  position:relative;
+  z-index:5;
+}
+
+ul li{
+  margin:1em;
+}
+i{color: var(--color4);
+
+  cursor: pointer;
+
+}
+i:hover{
+  color: var(--color2);
+  transform: rotate(-6deg);
+  transition: transform .15s linear;
+}
+}
+
+body {
+  margin: 20px auto;
+  font-family: "Madimi One", sans-serif;
+  background:var(--color2);
+  color:var(--color4);
+}
+
+ul,li{
+  list-style:none;
+}
+ul{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 1em;
+}
+ul li {
+  text-decoration:none;
+  color:var(--color4);
+  background:var(--color3);
+  display:block;
+ height: 3em;
+  padding:1em;
+  margin: 1.5em;
+  gap: .5em;
+  box-shadow: 5px 5px 7px rgba(33,33,33,.7);
+  transform: rotate(-6deg);
+  transition: transform .15s linear;
+  text-wrap: balance;
+  text-overflow: clip;
+}
+
+
+ul li:hover,ul li a:focus{
+  box-shadow:10px 10px 7px rgba(0,0,0,.7);
+  transform: scale(1.25);
+  position:relative;
+  z-index:5;
+}
+
+ul li{
+  margin:1em;}
