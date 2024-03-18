@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Sticky-Note/static/css/main.82fd156b.css",
-    "main.js": "/Sticky-Note/static/js/main.9ca3d481.js",
+    "main.js": "/Sticky-Note/static/js/main.655a2315.js",
     "static/media/fa-solid-900.ttf": "/Sticky-Note/static/media/fa-solid-900.d75e3fd1eb12e9bd6655.ttf",
     "static/media/fa-brands-400.ttf": "/Sticky-Note/static/media/fa-brands-400.016b4a6cdced82ab3aa1.ttf",
     "static/media/website-empty-pages.png": "/Sticky-Note/static/media/website-empty-pages.1b871e09f95f10b4be51.png",
@@ -15,10 +15,10 @@
     "static/media/fa-v4compatibility.woff2": "/Sticky-Note/static/media/fa-v4compatibility.1bac2991f3dbfa237aec.woff2",
     "index.html": "/Sticky-Note/index.html",
     "main.82fd156b.css.map": "/Sticky-Note/static/css/main.82fd156b.css.map",
-    "main.9ca3d481.js.map": "/Sticky-Note/static/js/main.9ca3d481.js.map"
+    "main.655a2315.js.map": "/Sticky-Note/static/js/main.655a2315.js.map"
   },
   "entrypoints": [
     "static/css/main.82fd156b.css",
-    "static/js/main.9ca3d481.js"
+    "static/js/main.655a2315.js"
   ]
 }
